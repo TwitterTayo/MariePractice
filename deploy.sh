@@ -1,1 +1,3 @@
-This is a deplyment script
+This is a deployment script
+deploy python apps
+deploy in the dev
